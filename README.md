@@ -28,5 +28,3 @@ MongoDB (for storing user analytics)
 ### Extension
 ![Extension](images/extension.png)
 
-### Full UI
-![Full App](images/full.png)
